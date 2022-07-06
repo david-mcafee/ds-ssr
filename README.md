@@ -1,2 +1,1 @@
-# ds-ssr
-SSR with Amplify DataStore
+# SSR with Amplify DataStore and Next.js
