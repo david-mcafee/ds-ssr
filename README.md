@@ -1,11 +1,10 @@
 # SSR with Amplify DataStore and Next.js
 
 ## Steps to run:
+
 - `amplify init`
-- `amplify add api`
-- Use the schema below
-- `amplify update api` - enable conflict resolution
 - `amplify push`
+
 ## Schema:
 
 ```graphql
